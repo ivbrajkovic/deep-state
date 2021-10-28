@@ -13,7 +13,7 @@ Deep effect hook is an enhanced version of standard useEffect hook. It provide f
 Hook usage is similar to well known useEffect hook with additional options.
 
 ---
-### 🚀 [Demo](https://codesandbox.io/s/deep-state) - Codesandbox example
+### 🚀 [Demo](https://codesandbox.io/s/deep-state-33xgz?file=) - Codesandbox example
 
 ## Basic usage
 
