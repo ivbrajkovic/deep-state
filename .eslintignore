@@ -1,0 +1,6 @@
+node_modules/
+lib/
+rollup.config.ts
+.eslintrc.js
+.eslintcache
+.md
